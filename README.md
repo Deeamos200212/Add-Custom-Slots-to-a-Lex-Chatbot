@@ -1,7 +1,6 @@
 # Add-Custom-Slots-to-a-Lex-Chatbot
 A conversational banking chatbot built with Amazon Lex, featuring custom slot types, slot prompts, failure responses, and a fully designed multi‑turn dialog flow.
 “In today’s project, I used Amazon Lex to build a conversational banking chatbot that can understand user requests and guide them through checking their account balance.”
-— from your uploaded document
 
 Project Overview
 This project demonstrates how to design a realistic, multi‑turn banking conversation using Amazon Lex. The chatbot collects structured information such as:
